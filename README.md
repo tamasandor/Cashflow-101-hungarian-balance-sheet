@@ -1,14 +1,14 @@
 Automated balance sheet made in excel for the Cashflow 101 board game. 
 Cashflow 101 is a business educational board game invented and created by Robert T. Kiyosaki author of Rich Dad Poor Dad business book.
 With this excel sheet players can focus on the importanter part of the game.
-
+<br>
+<br>
 Automatizált excel lap a Mókuskerék 101 társasjátékhoz.
 A Cashflow 101 egy üzleti oktató társasjáték, melyet a „Gazdag Papa, Szegény Papa” könyv szerzője, Robert T. Kiyosaki talált ki és hozott létre.
 Ezzel az excel lappal a játákosok a játék fontosabb részére tudnak koncentrálni.
 <br>
 <br>
 <br>
-
 <div align="center">
 <a href="https://github.com/tamasandor/Cashflow-101-hungarian-balance-sheet/raw/main/Cashflow-101_HU.xlsx" download="Cashflow-101_HU.xlsx" title="Download/Letöltés"> <img src="https://user-images.githubusercontent.com/111676834/204648875-b05ab231-c6e5-46ec-9fa2-100d312bff8e.png" width="48px" height="48px"/> </a>
 <br>
