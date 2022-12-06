@@ -5,7 +5,7 @@ With this excel sheet players can focus on the importanter part of the game.
 <br>
 Automatizált excel lap a Mókuskerék 101 társasjátékhoz.
 A Mókuskerék 101 (Cashflow 101) egy üzleti oktató társasjáték, melyet a „Gazdag Papa, Szegény Papa” könyv szerzője, Robert T. Kiyosaki talált ki és hozott létre.
-Ezzel az excel lappal a játákosok a játék fontosabb részére tudnak koncentrálni.
+Ezzel az excel lap használatával a játákosok a játék fontosabb részére tudnak koncentrálni.
 <br>
 <br>
 <br>
